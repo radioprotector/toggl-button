@@ -112,6 +112,7 @@ out of the way and focus on real work.
 - [Sprintly](https://sprint.ly)
 - [Taiga](https://taiga.io/)
 - [TargetProcess](https://www.targetprocess.com/)
+- [TeamDynamix](http://www.teamdynamix.com/)
 - [Teamleader](http://www.teamleader.eu/)
 - [Teamwork](https://www.teamwork.com/)
 - [Teamwork Desk](https://www.teamwork.com/desk)

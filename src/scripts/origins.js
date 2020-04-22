@@ -517,6 +517,10 @@ export default {
     url: '*://tasks.office.com/*',
     name: 'Microsoft Planner'
   },
+  'teamdynamix.com': {
+    url: '*://*.teamdynamix.com/*',
+    name: 'TeamDynamix'
+  },
   'teamwork.com': {
     url: '*://*.teamwork.com/*',
     name: 'Teamwork'

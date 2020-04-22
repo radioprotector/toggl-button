@@ -1519,3 +1519,8 @@ body.notion-body.dark .toggl-button.notion {
 [data-toggl="loanDrawer"] .toggl-button.brokerengine {
   margin-left: 12px;
 }
+
+/********* TEAMDYNAMIX *********/
+.toggl-button.teamdynamix {
+  vertical-align: bottom;
+}
